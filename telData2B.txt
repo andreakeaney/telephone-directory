@@ -1,0 +1,15 @@
+Nigel,Anderson,45,m,01415217744,28 Great Western Road Glasgow G1 0GG
+Angela,Crawford,39,f,01413320011,92 London Road Glasgow Glasgow G72 9YH
+Kate,Stevenson,41,f,01319752022,13 Morgan drive Edinburgh EH2 9WZ
+John,West,43,m,02078634477,123 Browser Street London E11 2ER
+Robert,Mask,37,m,01415714040,99 Cathcart Road Glasgow G42 8TC
+MAhmood,Al-Sabbagh,63,m,0777777777,Glasgow Clyde College
+andrea,keaney,39,f, 7555123456, 24 carleston st
+andy,mack,42,m,7526321654,24 carleston st
+stepg,green,20,f,07890123456,paisley
+louise,black,43,f,123456,london
+david,mackintosh,99,m,123654987,bellshill
+Andrea,Mackintosh,65,f,01415546547,dennistoun
+me,him,22,m,989894,glasgw
+she,her,30,f,01414444444,edinburg
+angela,ferguson,43,f,123456,newcastle
